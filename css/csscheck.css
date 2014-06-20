@@ -1,0 +1,5 @@
+[class*='tt-column-'] {
+    border: 1px solid black;
+    background-color: #ececec;
+    padding:5px;
+}
