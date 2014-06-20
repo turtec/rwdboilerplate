@@ -22,7 +22,6 @@ h1,h2,h3,h4,h5,h6{
 	display:block;
 	margin-bottom:10px;
 	margin:auto;
-	
 }
 
 .tt-column-1, .tt-column-2, .tt-column-3,
@@ -34,8 +33,17 @@ h1,h2,h3,h4,h5,h6{
 	width:100%;
 }
 
+/*breakpoints
+	480px
+	768px
+	960px
+	1024px
+	1280px
+*/
+
+
 /* breakpoints */
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 480px) {
 	.tt-column-1{
 		width:8.33%;
 	} 
